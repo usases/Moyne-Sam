@@ -1,6 +1,5 @@
 <h1 style="color: #333;">Функции сайта</h1>
-    
-    <h2 style="color: #333;">Регистрация и авторизация</h2>
+<h2 style="color: #333;">Регистрация и авторизация</h2>
     <p style="margin-bottom: 15px;">Пользователи могут зарегистрироваться, указав следующие данные:</p>
     <ul style="list-style-type: disc; margin-left: 20px;">
         <li>ФИО</li>
