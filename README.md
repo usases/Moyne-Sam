@@ -1,13 +1,4 @@
-<!DOCTYPE html>
-<html lang="ru">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ReadMe - Функции сайта</title>
-</head>
-<body style="font-family: Arial, sans-serif; line-height: 1.6; margin: 20px; background-color: #f9f9f9;">
-
-    <h1 style="color: #333;">Функции сайта</h1>
+<h1 style="color: #333;">Функции сайта</h1>
     
     <h2 style="color: #333;">Регистрация и авторизация</h2>
     <p style="margin-bottom: 15px;">Пользователи могут зарегистрироваться, указав следующие данные:</p>
@@ -58,6 +49,3 @@
     <p style="margin-bottom: 15px;">Для входа в систему как администратор используйте:</p>
     <pre style="background-color: #f0f0f0; padding: 5px; border-radius: 4px;"><code>Логин: admin
 Пароль: admin123</code></pre>
-
-</body>
-</html>
