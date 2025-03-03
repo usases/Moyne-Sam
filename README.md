@@ -42,5 +42,5 @@
     </ul>
 <h2 style="color: #333;">Вход как администратор</h2>
     <p style="margin-bottom: 15px;">Для входа в систему как администратор используйте:</p>
-    <pre style="background-color: #f0f0f0; padding: 5px; border-radius: 4px;"><code>Логин: admin</code></pre>
-    <pre style="background-color: #f0f0f0; padding: 5px; border-radius: 4px;"><code> Пароль: admin123</code></pre>
+    <p style="margin-bottom: 15px;">Логин: </p><pre style="background-color: #f0f0f0; padding: 5px; border-radius: 4px;"><code>admin</code></pre>
+    <p style="margin-bottom: 15px;">Пароль: </p><pre style="background-color: #f0f0f0; padding: 5px; border-radius: 4px;"><code>admin123</code></pre>
